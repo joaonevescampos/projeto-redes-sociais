@@ -11,13 +11,11 @@ body, html{
     background-size: cover;
     height: 100vh;
     width: 100vw;
-   
 }
 
 main{ 
     position: relative; 
     height: 100vh;
-   
 }
 
 #celular{
@@ -37,6 +35,14 @@ iframe{
     margin-left: 22px;
     width: 269px;
     height: 500px;
-    
+}
 
+#menu{
+    text-align: right;
+}
+
+#menu img{
+    width: 50px;
+    border-radius: 50%;
+    padding: 10px;
 }
