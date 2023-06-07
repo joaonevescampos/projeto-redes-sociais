@@ -1,2 +1,2 @@
-# projeto-redes-sociaiss
+# projeto-redes-sociais
  Site de redes sociais.
