@@ -26,15 +26,15 @@ main{
 
     background: url(../imagens/frame-iphone.png);
     width: 311px;
-    height: 627px;
+    height: 610px;
 }
 
 iframe{
     position: absolute;
     margin-top: 80px;
     margin-left: 22px;
-    width: 269px;
-    height: 500px;
+    width: 267px;
+    height: 467px;
 }
 
 #menu{
